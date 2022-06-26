@@ -1,7 +1,6 @@
 <p align="center">
 	<img src="https://telegra.ph/file/4fe574569447aa1e43411.jpg" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">Hisoka-Morou</h1>
 
 ## UNTUK PENGGUNA WINDOWS/RDP
 
