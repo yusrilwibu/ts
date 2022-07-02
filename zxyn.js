@@ -985,7 +985,7 @@ let buttonsVote = [
 
             let buttonMessageVote = {
                 text: teks_vote,
-                footer: '© ZxynOfc',
+                footer: '© ArullOfc',
                 buttons: buttonsVote,
                 headerType: 1
             }
@@ -1068,7 +1068,7 @@ ${vote[m.chat][2].map((v, i) => `├ ${i + 1}. @${v.split`@`[0]}`).join('\n')}
 
             let buttonMessageDevote = {
                 text: teks_vote,
-                footer: '© ZxynOfc',
+                footer: '© ArullOfc',
                 buttons: buttonsDevote,
                 headerType: 1,
                 mentions: menvote
@@ -1165,7 +1165,7 @@ break
                         { buttonId: 'antilink on', buttonText: { displayText: 'On' }, type: 1 },
                         { buttonId: 'antilink off', buttonText: { displayText: 'Off' }, type: 1 }
                     ]
-                    await zxyn.sendButtonText(m.chat, buttons, `Mode Antilink`, '© ZxynOfc', m)
+                    await zxyn.sendButtonText(m.chat, buttons, `Mode Antilink`, '© ArullOfc', m)
                 }
              }
              break
@@ -1752,7 +1752,7 @@ break
                 let buttonMessage = {
                     image: { url: result.image },
                     caption: `⭔ Title : ${result.title}\n⭔ Source : ${result.source}\n⭔ Media Url : ${result.image}`,
-                    footer: '© ZxynOfc',
+                    footer: '© ArullOfc',
                     buttons: buttons,
                     headerType: 4
                 }
@@ -2603,7 +2603,7 @@ Lihat list Pesan Dengan ${prefix}listmsg`)
                     let buttons = [
                         { buttonId: 'keluar', buttonText: { displayText: 'Stop' }, type: 1 }
                     ]
-                    await zxyn.sendButtonText(m.chat, buttons, `\`\`\`Mohon Tunggu Sedang Mencari Partner\`\`\``, '© ZxynOfc', m)
+                    await zxyn.sendButtonText(m.chat, buttons, `\`\`\`Mohon Tunggu Sedang Mencari Partner\`\`\``, '© ArullOfc', m)
                 }
                 break
             }
