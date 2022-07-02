@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://telegra.ph/file/4fe574569447aa1e43411.jpg" style="margin-left: auto;margin-right: auto;display: block;">
+	<img src="https://telegra.ph/file/27b93aa6266db26ac3375.jpg" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 
 ## UNTUK PENGGUNA WINDOWS/RDP
@@ -10,8 +10,8 @@
 
 
 ```bash
-git clone https://github.com/YosaArdn/Zxyn-V1
-cd Zxyn-V1
+git clone https://github.com/Warikrr/md2
+cd md2
 npm install
 ```
 
@@ -31,7 +31,7 @@ apt update && apt upgrade
 apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
-git clone https://github.com/YosaArdn/Zxyn-V1
+git clone https://github.com/Warikrr/md2
 cd  Zxyn-V1
 npm install
 ```
@@ -68,7 +68,8 @@ Get Apikey zenz on [`zenz`](https://zenzapi.xyz/pricing)
 * [`zhwzein`](https://github.com/zhwzein)
 * [`CAF-ID`](https://github.com/CAF-ID)
 * [`bintang`](https://github.com/Bintangp02)
-
+* [`ArullOfc`](https://github.com/Warikrr
+)
 ```Thanks to all who have participated in the development of this script```
 
 
