@@ -599,11 +599,11 @@ Silahkan @${m.mentionedJid[0].split`@`[0]} untuk ketik terima/tolak`
 https://github.com/DikaArdnt
 
 *Recode By : ArullOfc*
-`
+https://youtu.be/9OvUdX8Xuv0`
 let btn = [{
                                 urlButton: {
                                     displayText: 'Source Code',
-                                    url: ''
+                                    url: 'https://youtu.be/9OvUdX8Xuv0'
                                 }
                             }]
                          let setbot = db.data.settings[botNumber]
@@ -3384,7 +3384,7 @@ anu = `${ucapanWaktu} ${pushname}
 let btn = [{
                                 urlButton: {
                                     displayText: 'Youtube📽️',
-                                    url: 'https://youtube.com/channel/UC31AobZtVn1WxyM8h9gWC-w'
+                                    url: 'https://youtu.be/9OvUdX8Xuv0'
                                 }
                                 }, {
                                 urlButton: {
@@ -4759,11 +4759,11 @@ let btn = [{
             break
                    
             case 'menu': case 'help': case '?': {
-                anu = `${ucapanWaktu} ${pushname}\n\nSaya ${global.namabot}, Bot Ini Adalah Beta Multi Device WhatsApp.\n\n${global.namabot} Adalah Hasil Recode ${global.namaowner} Menggunakan Base Dari Dika Ardnt (Hisoka-Morou).\n\nJika Kamu Menemukan Semacam Bug Atau Kesalahan Harap Lapor Ke Owner Agar Segera Di Perbaiki😁`
+                anu = `${ucapanWaktu} ${pushname}\n\nSaya ${global.namabot}, Bot Ini Adalah Beta Multi Device WhatsApp.\n\n${global.namabot} Adalah Hasil Recode ${global.namaowner} Menggunakan sc dari ZxynOfc (YosaArdn).\n\nJika Kamu Menemukan Semacam Bug Atau Kesalahan Harap Lapor Ke Owner Agar Segera Di Perbaiki😁`
                 let btn = [{
                                 urlButton: {
                                     displayText: 'Youtube📽️',
-                                    url: 'https://youtube.com/channel/UC31AobZtVn1WxyM8h9gWC-w'
+                                    url: 'https://youtu.be/9OvUdX8Xuv0'
                                 }
                                 }, {
                                 urlButton: {
@@ -4803,16 +4803,15 @@ let btn = [{
 
 case 'donasi': {
 anu = `╭─❏ *『 DONASI 』*
-│ ➪ Gopay : 083149781035
-│ ➪ Dana : 083149781035
-│ ➪ Pulsa : 083149781035
+│ ➪ Dana : 085822347348
+│ ➪ Pulsa : 085822347348,083843192208
 ╰───────────────❏
 
 *TERIMA KASIH BUAT YANG SUDAH MAU DONASI🤗*`
 let btn = [{
                                 urlButton: {
                                     displayText: 'Youtube📽️',
-                                    url: 'https://youtube.com/channel/UC31AobZtVn1WxyM8h9gWC-w'
+                                    url: '085822347348'
                                 }
                                 }, {
                                 urlButton: {
